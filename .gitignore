@@ -1,0 +1,10 @@
+
+# Python
+__pycache__/
+*.pyc
+
+#pws Virtual environment
+backend/.venv/
+
+# API keys and secrets
+backend/.env
